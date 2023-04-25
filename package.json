@@ -1,0 +1,21 @@
+{
+  "name": "ysrcli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bin": "./index.js",
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "chalk-animation": "^2.0.3",
+    "gradient-string": "^2.0.2",
+    "inquirer": "^9.2.0",
+    "nanospinner": "^1.1.0"
+  }
+}
